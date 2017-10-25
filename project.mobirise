@@ -446,7 +446,7 @@
             },
             "@media (max-width: 576px)": {
               ".bloque": {
-                "width": "300px",
+                "width": "200px",
                 "margin": "0px auto",
                 "background-color": "#812204"
               }
