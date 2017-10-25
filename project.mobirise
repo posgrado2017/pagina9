@@ -66,10 +66,7 @@
               "transition": "none",
               "min-height": "77px",
               "padding": "0rem 0",
-              "padding-bottom": "1px",
-              "width": "1000px",
-              "margin": "0px auto",
-              "background-color": "#812204"
+              "padding-bottom": "1px"
             },
             ".navbar-dropdown.bg-color.transparent.opened": {
               "background": "@menuBgColor"
